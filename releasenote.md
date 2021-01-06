@@ -5,7 +5,7 @@ Solution Development Dept. Software Div.
 
 ## 1. Basic Information
 ### 1.1 Version Information
-- Yocto: 3.
+- Yocto: 3.2
 - Kernel: 5.4.84
 - Kernel for Layerscape: 5.4.47
 - Toolchain
