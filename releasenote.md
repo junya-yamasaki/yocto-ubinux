@@ -205,10 +205,8 @@ cairo:
 
 coreutils:
 - CVE-2009-4135
-- CVE-2014-9471
 - CVE-2015-4041
 - CVE-2015-4042
-- CVE-2016-2781
 - CVE-2017-18018
 
 cpio:
@@ -233,9 +231,6 @@ dovecot:
 - CVE-2020-12100
 - CVE-2020-12673
 - CVE-2020-12674
-
-ecryptfs-utils:
-- CVE-2016-1572
 
 f2fs-tools:
 - CVE-2020-6104
@@ -296,9 +291,6 @@ libvirt:
 - CVE-2018-5748
 - CVE-2020-25637
 
-libxcrypt:
-- CVE-2008-3188
-
 lua:
 - CVE-2019-6706
 - CVE-2020-15889
@@ -320,7 +312,6 @@ patch:
 - CVE-2019-20633
 
 php:
-- CVE-2007-2728
 - CVE-2020-7069
 - CVE-2020-7070
 
@@ -336,7 +327,6 @@ postgresql:
 - CVE-2020-25696
 
 procmail:
-- CVE-1999-0475
 - CVE-2014-3618
 - CVE-2017-16844
 
@@ -402,9 +392,6 @@ samba:
 shadow:
 - CVE-2013-4235
 
-strace:
-- CVE-2000-0006
-
 tcpdump:
 - CVE-2020-8037
 
@@ -418,12 +405,6 @@ trousers:
 - CVE-2020-24332
 
 ubinux-kernel:
-- CVE-1999-0524
-- CVE-1999-0656
-- CVE-2007-4998
-- CVE-2008-4609
-- CVE-2010-4563
-- CVE-2011-0640
 - CVE-2017-1000377
 - CVE-2019-3016
 - CVE-2019-14899
@@ -444,12 +425,6 @@ ubinux-kernel:
 - CVE-2020-29660
 
 ubinux-kernel-lsdk:
-- CVE-1999-0524
-- CVE-1999-0656
-- CVE-2007-4998
-- CVE-2008-4609
-- CVE-2010-4563
-- CVE-2011-0640
 - CVE-2017-1000377
 - CVE-2019-3016
 - CVE-2019-14899
@@ -501,9 +476,6 @@ ubinux-kernel-lsdk:
 - CVE-2020-29660
 - CVE-2020-29661
 
-uw-imap:
-- CVE-2005-0198
-
 wireshark:
 - CVE-2020-26418
 - CVE-2020-26420
@@ -513,9 +485,6 @@ wireshark:
 
 xrdp:
 - CVE-2020-4044
-
-xterm:
-- CVE-1999-0965
 
 zabbix:
 - CVE-2020-15803
