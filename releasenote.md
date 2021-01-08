@@ -318,9 +318,6 @@ php:
 pixman:
 - CVE-2013-0800
 
-polkit:
-- CVE-2016-2568
-
 postgresql:
 - CVE-2020-25694
 - CVE-2020-25695
